@@ -1,4 +1,4 @@
-# Landing page - Balle Bot :robot: 
+# Landing Page - Balle Bot :robot: 
 
 🛠️ Construído com
 
